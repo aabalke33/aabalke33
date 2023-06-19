@@ -1,5 +1,8 @@
 <h1>Aaron Balke <br/><a href="https://github.com/aabalke33">Software Developer</a>, <a href="https://www.linkedin.com/in/aaronbalke/">Tax Accountant</a>, <a href="https://www.youtube.com/@h3music">Music Producer</a></h1>
 
+<h2>About Me</h2>
+I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I am interested in entering Software Development to utilize my problem-solving skills and am currently studying Artificial Intelligence / Machine Learning and efficient computing methods such as multithreading and parallelism.
+
 <h2>Software Development Projects</h2>
 <b>Artifical Intelligence / Machine Learning</b>
 
@@ -24,11 +27,20 @@
 - Comptia Security+
 - Axelos ITIL Foundations
 
+<h2>Skills</h2>
+
+Programming Languages Java, Python, C / C++
+
+Other: SQL, MySQL, JavaFX, MVC, Machine Learning / Artificial Intelligence, Git
+
+People Skills: Project Management, IT Service Management, Customer-Service
+
+
 [<img align="left" alt="AaronBalke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
 [<img align="left" alt="AaronBalke | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="AaronBalke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[email]: aabalke33@gmail.com
+[email]: mailto:aabalke33@gmail.com
 [youtube]: https://www.youtube.com/@h3music
 [linkedin]: https://linkedin.com/in/aaronbalke
 
