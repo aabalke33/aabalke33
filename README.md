@@ -10,7 +10,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 <b>Data Structures & Algorithms</b>
 
-- [Traveling Salesman Problem (Nearest Neighbor Implementation)]([https://github.com/aabalke33/](https://github.com/aabalke33/traveling-salesman-problem/))
+- [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/)
 
 <b>Java Applications</b>
 
