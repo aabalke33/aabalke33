@@ -16,7 +16,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 - [Composite Image Blend Modes](https://github.com/aabalke33/blend-modes)
 - [Video Effects](https://github.com/aabalke33/)
-- [GUI Appointment Management System](https://github.com/aabalke33/)
+- [GUI Appointment Management System](https://github.com/aabalke33/app-mgmt-system)
 - [GUI Product Management System](https://github.com/aabalke33/)
 
 <h2>Education & Certifications</h2>
