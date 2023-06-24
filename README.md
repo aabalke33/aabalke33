@@ -13,11 +13,11 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 - [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/)
 
 <b>Java Applications</b>
-
-- [Composite Image Blend Modes](https://github.com/aabalke33/blend-modes)
-- [Video Effects](https://github.com/aabalke33/)
 - [GUI Appointment Management System](https://github.com/aabalke33/app-mgmt-system)
 - [GUI Inventory Management System](https://github.com/aabalke33/inventory-mgmt-system)
+- [Composite Image Blend Modes](https://github.com/aabalke33/blend-modes)
+- [Offset Image/Color Channel Position](https://github.com/aabalke33/rgb-offset)
+- [Video Effects](https://github.com/aabalke33/)
 
 <h2>Education & Certifications</h2>
 
