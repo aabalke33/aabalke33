@@ -6,7 +6,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 <h2>Software Development Projects</h2>
 <b>Artifical Intelligence / Machine Learning</b>
 
-- [CNN to Classify Drum Audio Samples](https://github.com/aabalke33/drum-audio-classifier)
+- [CNN to Classify Drum Audio Samples](https://github.com/aabalke33/drum-audio-classifier) ([Video Breakdown](https://www.youtube.com/watch?v=4DkwWLhBtOo))
 
 <b>Data Structures & Algorithms</b>
 
