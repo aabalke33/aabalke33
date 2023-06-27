@@ -10,14 +10,13 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 <b>Data Structures & Algorithms</b>
 
-- [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/)
+- [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/) ([Video Breakdown](https://www.youtube.com/watch?v=30iPiAMeQK8))
 
 <b>Java Applications</b>
-- [GUI Appointment Management System](https://github.com/aabalke33/app-mgmt-system)
-- [GUI Inventory Management System](https://github.com/aabalke33/inventory-mgmt-system)
-- [Composite Image Blend Modes](https://github.com/aabalke33/blend-modes)
-- [Offset Image/Color Channel Position](https://github.com/aabalke33/rgb-offset)
-- [Video Effects](https://github.com/aabalke33/)
+- [GUI Appointment Management System](https://github.com/aabalke33/app-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=2H9uRx9bGd8))
+- [GUI Inventory Management System](https://github.com/aabalke33/inventory-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=mUjGZXsl3kU))
+- [Composite Image Blend Modes](https://github.com/aabalke33/blend-modes) ([Video Breakdown](https://www.youtube.com/watch?v=mvTyBnEWVW0))
+- [Offset Image/Color Channel Position](https://github.com/aabalke33/rgb-offset) ([Video Breakdown](https://www.youtube.com/watch?v=fP4gSrhVJ30))
 
 <h2>Education & Certifications</h2>
 
