@@ -15,6 +15,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 <b>Java Applications</b>
 - [GUI Appointment Management System](https://github.com/aabalke33/app-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=2H9uRx9bGd8))
 - [GUI Inventory Management System](https://github.com/aabalke33/inventory-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=mUjGZXsl3kU))
+- [Film Grain Video Effect](https://github.com/aabalke33/film-grain-effect) 
 - [Composite Image Blend Modes](https://github.com/aabalke33/blend-modes) ([Video Breakdown](https://www.youtube.com/watch?v=mvTyBnEWVW0))
 - [Offset Image/Color Channel Position](https://github.com/aabalke33/rgb-offset) ([Video Breakdown](https://www.youtube.com/watch?v=fP4gSrhVJ30))
 
