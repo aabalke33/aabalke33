@@ -16,7 +16,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 - [GUI Appointment Management System](https://github.com/aabalke33/app-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=2H9uRx9bGd8))
 - [GUI Inventory Management System](https://github.com/aabalke33/inventory-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=mUjGZXsl3kU))
 
-- [H3 Music Video Editor](https://github.com/h3music/video-editor)
+- [H3 Music "IRIS" Track and Video Uploader](https://github.com/h3music/iris-track-uploader)
   - [Film Grain Video Effect](https://github.com/aabalke33/film-grain-effect)
   - [Glitch Video Effect](https://github.com/aabalke33/glitch-video-effect)
   - [Composite Image Blend Modes](https://github.com/aabalke33/blend-modes) ([Video Breakdown](https://www.youtube.com/watch?v=mvTyBnEWVW0))
