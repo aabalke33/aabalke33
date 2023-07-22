@@ -34,7 +34,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 Programming Languages Java, Python, C / C++
 
-Other: SQL, MySQL, JavaFX, MVC, Machine Learning / Artificial Intelligence, Git, Docker, Image and Video Processing
+Other: REST APIs, Google APIs, SQL, MySQL, JavaFX, MVC, Machine Learning / Artificial Intelligence, Git, Docker, Image and Video Processing
 
 People Skills: Project Management, IT Service Management, Customer-Service
 
