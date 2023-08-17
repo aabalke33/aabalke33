@@ -7,9 +7,9 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 <b>Artifical Intelligence / Machine Learning</b>
 
 - [CNN to Classify Drum Audio Samples](https://github.com/aabalke33/drum-audio-classifier) ([Video Breakdown](https://www.youtube.com/watch?v=4DkwWLhBtOo))
+- [logotherapyGPT](https://github.com/aabalke33/logotherapyGPT)
 
 <b>Data Structures & Algorithms</b>
-
 - [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/) ([Video Breakdown](https://www.youtube.com/watch?v=30iPiAMeQK8))
 
 <b>Java Applications</b>
