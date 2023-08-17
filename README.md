@@ -1,13 +1,13 @@
-<h1>Aaron Balke <br/><a href="https://github.com/aabalke33">Software Developer</a></h1>
+<h1>Aaron Balke</h1>
 
 <h2>About Me</h2>
-I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I am interested in entering Software Development to utilize my problem-solving skills and am currently studying Artificial Intelligence / Machine Learning and efficient computing methods such as multithreading and parallelism.
+I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I am interested in entering Software Development to utilize my problem-solving skills and am currently studying Artificial Intelligence / Machine Learning.
 
 <h2>Software Development Projects</h2>
 <b>Artifical Intelligence / Machine Learning</b>
 
 - [CNN to Classify Drum Audio Samples](https://github.com/aabalke33/drum-audio-classifier) ([Video Breakdown](https://www.youtube.com/watch?v=4DkwWLhBtOo))
-- [logotherapyGPT](https://github.com/aabalke33/logotherapyGPT)
+- [logotherapyGPT](https://github.com/aabalke33/logotherapyGPT) ([Video Breakdown](https://www.youtube.com/watch?v=P8HKdp_gxko))
 
 <b>Data Structures & Algorithms</b>
 - [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/) ([Video Breakdown](https://www.youtube.com/watch?v=30iPiAMeQK8))
@@ -33,11 +33,13 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 <h2>Skills</h2>
 
-Programming Languages Java, Python, C / C++
+**Programming Languages:** Java, Python
 
-Other: REST APIs, Google APIs, SQL, MySQL, JavaFX, MVC, Machine Learning / Artificial Intelligence, Git, Docker, Image and Video Processing
+**AI/ML:** CNNs, RNNs, GPTs, Langchain, PyTorch 
 
-People Skills: Project Management, IT Service Management, Customer-Service
+**Other:** REST APIs, Google APIs, SQL, MySQL, JavaFX, MVC, Git, Docker, Streamlit
+
+**People Skills:** Project Management, IT Service Management, Customer-Service
 
 
 [<img align="left" alt="AaronBalke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][email]
