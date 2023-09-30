@@ -4,6 +4,11 @@
 I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I am interested in entering Software Development to utilize my problem-solving skills and am currently studying Artificial Intelligence / Machine Learning.
 
 <h2>Software Development Projects</h2>
+
+<b>Full-Stack Web Development</b>
+
+- [JOT: Simplified Clinical Note-taking](https://github.com/aabalke33/jotapp-demo)
+
 <b>Artifical Intelligence / Machine Learning</b>
 
 - [CNN to Classify Drum Audio Samples](https://github.com/aabalke33/drum-audio-classifier) ([Video Breakdown](https://www.youtube.com/watch?v=4DkwWLhBtOo))
@@ -13,6 +18,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 - [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/) ([Video Breakdown](https://www.youtube.com/watch?v=30iPiAMeQK8))
 
 <b>Java Applications</b>
+
 - [GUI Appointment Management System](https://github.com/aabalke33/app-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=2H9uRx9bGd8))
 - [GUI Inventory Management System](https://github.com/aabalke33/inventory-mgmt-system) ([Video Breakdown](https://www.youtube.com/watch?v=mUjGZXsl3kU))
 
@@ -33,11 +39,13 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 <h2>Skills</h2>
 
-**Programming Languages:** Java, Python
+**Programming Languages:** Java, Python, Javascript
+
+**Web Development:** Javascript, Flask, HTML, CSS, REST APIs
 
 **AI/ML:** CNNs, RNNs, GPTs, Langchain, PyTorch 
 
-**Other:** REST APIs, Google APIs, SQL, MySQL, JavaFX, MVC, Git, Docker, Streamlit
+**Other:** Google APIs, MySQL, Oracle Database, JavaFX, MVC, Git, Docker, Streamlit
 
 **People Skills:** Project Management, IT Service Management, Customer-Service
 
