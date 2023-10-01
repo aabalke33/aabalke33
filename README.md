@@ -1,13 +1,13 @@
 <h1>Aaron Balke</h1>
 
 <h2>About Me</h2>
-I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I am interested in entering Software Development to utilize my problem-solving skills and am currently studying Artificial Intelligence / Machine Learning.
+I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I am interested in entering Software Development to utilize my problem-solving skills and am currently studying Data Analysis and Web Development.
 
 <h2>Software Development Projects</h2>
 
 <b>Full-Stack Web Development</b>
 
-- [JOT: Simplified Clinical Note-taking](https://github.com/aabalke33/jotapp-demo)
+- [JOT: Simplified Clinical Note-taking](https://github.com/aabalke33/jotapp-demo) ([Video Breakdown](https://www.youtube.com/watch?v=ugFaNqWu9sk))
 
 <b>Artifical Intelligence / Machine Learning</b>
 
@@ -15,6 +15,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 - [logotherapyGPT](https://github.com/aabalke33/logotherapyGPT) ([Video Breakdown](https://www.youtube.com/watch?v=P8HKdp_gxko))
 
 <b>Data Structures & Algorithms</b>
+
 - [Traveling Salesman Problem (Nearest Neighbor Implementation)](https://github.com/aabalke33/traveling-salesman-problem/) ([Video Breakdown](https://www.youtube.com/watch?v=30iPiAMeQK8))
 
 <b>Java Applications</b>
