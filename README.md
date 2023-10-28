@@ -6,7 +6,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 <h2>Software Development Projects</h2>
 
 <b>Full-Stack Web Development</b>
-
+- [webEMDR: Enabling Remote EMDR Therapy](https://github.com/aabalke33/webEMDR)
 - [JOT: Simplified Clinical Note-taking](https://github.com/aabalke33/jotapp-demo) ([Video Breakdown](https://www.youtube.com/watch?v=ugFaNqWu9sk))
 
 <b>Artifical Intelligence / Machine Learning</b>
@@ -42,11 +42,13 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 **Programming Languages:** Java, Python, Javascript
 
-**Web Development:** Javascript, Flask, HTML, CSS, REST APIs
+**Web Development:** React, Node/Express, Tailwind, Flask, HTML/CSS, REST APIs
 
-**AI/ML:** CNNs, RNNs, GPTs, Langchain, PyTorch 
+**AI/ML:** CNNs, RNNs, GPTs, Langchain, PyTorch, Streamlit
 
-**Other:** Google APIs, MySQL, Oracle Database, JavaFX, MVC, Git, Docker, Streamlit
+**Databases:** MySQL, Oracle Database, Redis, SQLite
+
+**Other:** Google APIs, JavaFX, MVC, Git, Docker
 
 **People Skills:** Project Management, IT Service Management, Customer-Service
 
