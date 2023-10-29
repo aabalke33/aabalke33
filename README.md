@@ -6,7 +6,7 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 <h2>Software Development Projects</h2>
 
 <b>Full-Stack Web Development</b>
-- [webEMDR: Enabling Remote EMDR Therapy](https://github.com/aabalke33/webEMDR)
+- [webEMDR: Enabling Remote EMDR Therapy](https://github.com/aabalke33/webEMDR) ([Video Breakdown](https://www.youtube.com/watch?v=b-K1dWyCgTg))
 - [JOT: Simplified Clinical Note-taking](https://github.com/aabalke33/jotapp-demo) ([Video Breakdown](https://www.youtube.com/watch?v=ugFaNqWu9sk))
 
 <b>Artifical Intelligence / Machine Learning</b>
