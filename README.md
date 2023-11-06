@@ -32,11 +32,11 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 <h2>Education & Certifications</h2>
 
-- Western Governors University, Bachelor of Science in Computer Science
-- Comptia A+
-- Comptia Network+
-- Comptia Security+
-- Axelos ITIL Foundations
+- Western Governors University, Bachelor of Science in Computer Science (June 2023)
+- Comptia A+ (2023)
+- Comptia Network+ (2023)
+- Comptia Security+ (2023)
+- Axelos ITIL Foundations (2023)
 
 <h2>Skills</h2>
 
