@@ -46,9 +46,11 @@ I have worked as a Tax & Accounting Specialist for over 5 years, and have operat
 
 **AI/ML:** CNNs, RNNs, GPTs, Langchain, PyTorch, Streamlit
 
-**Databases:** MySQL, Oracle Database, Redis, SQLite
+**Data Analytics:** Sklearn, Statsmodels
 
-**Other:** Google APIs, JavaFX, MVC, Git, Docker
+**Databases:** MySQL, PostgreSQL, Redis, SQLite
+
+**Other:** Google APIs, JavaFX, Git, Docker
 
 **People Skills:** Project Management, IT Service Management, Customer-Service
 
