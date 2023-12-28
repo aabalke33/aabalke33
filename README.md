@@ -1,9 +1,13 @@
 <h1>Aaron Balke</h1>
 
 <h2>About Me</h2>
-I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I am interested in entering Software Development to utilize my problem-solving skills and am currently studying Data Analysis and Web Development.
+I have worked as a Tax & Accounting Specialist for over 5 years, and have operated a freelance music production company for over 9 years. I received my BS in Computer Science in 2023 and am finishing an MS in Data Analytics. In 2023 I also started freelance Web Development.
 
 <h2>Software Development Projects</h2>
+
+<b>Data Analytics</b>
+
+[Masters of Data Analytics Portfolio](https://github.com/aabalke33/msda-portfolio) (Logistic & Linear Regression, KNN Classification, Decision Tree Classification)
 
 <b>Full-Stack Web Development</b>
 - [webEMDR: Enabling Remote EMDR Therapy](https://github.com/aabalke33/webEMDR) ([Video Breakdown](https://www.youtube.com/watch?v=b-K1dWyCgTg))
