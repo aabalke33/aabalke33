@@ -1,7 +1,6 @@
 # Aaron Balke
 
-I have worked 9+ Years in the financial industry, received my Bachelors in Computer Science in 2023, and will be receiving my Masters in Data Analytics soon. 
-My goal is to fix people problems with technology solutions.
+My utilization of Python and SQL at the tax office enabled me to prioritize personal interactions, making individuals feel cared for amidst the stress of personal finances. These skills transitioned into web development for a small mental health practice, giving them the ability to also make individuals feel cared for. I’d love to work at a company that allows me to continue to assist small businesses, making a difference.
 
 When I'm not in a terminal, you can find me hiking, and producing music!
 
